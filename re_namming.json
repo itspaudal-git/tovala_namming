@@ -1,0 +1,418 @@
+[
+    {
+        "Tovala Base SKU": "I00309",
+        "Name": "Sauce, Fish, 3 Crabs",
+        "New Name ": "Sauce, Fish",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "High",
+        "Notes": "Remove \"3 Crabs\" since phasing to Roland. vs (I01011) Sauce, Fish?"
+    },
+    {
+        "Tovala Base SKU": "I00395",
+        "Name": "Honey, Packet, Sue Bee",
+        "New Name ": "Honey, Packet",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "High",
+        "Notes": "Remove \"Sue Bee.\" Do not use this brand"
+    },
+    {
+        "Tovala Base SKU": "I00405",
+        "Name": "Tortilla, Casa Solana, Flour, 6",
+        "New Name ": "Tortilla, Flour, 6",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "High",
+        "Notes": "Tortilla, El Milagro, Flour, 6 (I00404) vs. Tortilla, Casa Solana, Flour, 6 (I00405) vs. Tortilla, Mission, Flour, 6 (I00406)"
+    },
+    {
+        "Tovala Base SKU": "I00490",
+        "Name": "Corn, Fire Roasted, IQF, Simplot",
+        "New Name ": "Corn, Fireroasted, IQF",
+        "Category": "Frozen Items",
+        "Priority (H/M/L)": "High",
+        "Notes": "Remove \"Simplot\""
+    },
+    {
+        "Tovala Base SKU": "I00536",
+        "Name": "Chicken, Cougle, VP, 5 oz",
+        "New Name ": "Chicken, VP, 5 oz",
+        "Category": "Meat",
+        "Priority (H/M/L)": "High",
+        "Notes": "Remove \"Cougle\""
+    },
+    {
+        "Tovala Base SKU": "I00541",
+        "Name": "Pork Chop, VP, CMA",
+        "New Name ": "Pork Chop, VP",
+        "Category": "Meat",
+        "Priority (H/M/L)": "High",
+        "Notes": "Remove \"CMA\""
+    },
+    {
+        "Tovala Base SKU": "I00545",
+        "Name": "Steak, Top Sirloin, CMA, 6 oz",
+        "New Name ": "Steak, Top Sirloin, 6 oz",
+        "Category": "Meat",
+        "Priority (H/M/L)": "High",
+        "Notes": "Remove \"CMA\""
+    },
+    {
+        "Tovala Base SKU": "I00633",
+        "Name": "Broccoli, Florets, Taylor",
+        "New Name ": "Broccoli, Florets, Mini",
+        "Category": "Precut Vegetables",
+        "Priority (H/M/L)": "High",
+        "Notes": "Remove \"Taylor\" and potentially add \"Mini\""
+    },
+    {
+        "Tovala Base SKU": "I00759",
+        "Name": "Cabbage, Oriental Mix, TLF",
+        "New Name ": "Cabbage, Oriental Mix",
+        "Category": "Produce",
+        "Priority (H/M/L)": "High",
+        "Notes": "Remove \"TLF\""
+    },
+    {
+        "Tovala Base SKU": "I00849",
+        "Name": "Oil, Truffle, MillPress",
+        "New Name ": "Oil, Truffle",
+        "Category": "Oil and Vinegar",
+        "Priority (H/M/L)": "High",
+        "Notes": "Oil, Truffle, DART (I00838) vs. Oil, Truffle, MillPress (I00849)"
+    },
+    {
+        "Tovala Base SKU": "I00982",
+        "Name": "Tortilla, Casa Solana, Flour, 10",
+        "New Name ": "Tortilla, Flour, 10",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "High",
+        "Notes": "Tortilla, El Milagro, Flour, 10 (I00417) vs. tortilla, flour, 10 inch, la banderita (I00422) vs. Tortilla, Casa Solana, Flour, 10 (I00982)"
+    },
+    {
+        "Tovala Base SKU": "I00057",
+        "Name": "Mustard, Powder, Coleman",
+        "New Name ": "Mustard, Powder",
+        "Category": "Standard Spices",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Consolidate to just \"Mustard powder, regular\" (I00058) instead of Coleman"
+    },
+    {
+        "Tovala Base SKU": "I00369",
+        "Name": "Sesame Sticks, GS",
+        "New Name ": "Sesame Sticks",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"GS\""
+    },
+    {
+        "Tovala Base SKU": "I00386",
+        "Name": "Cherry, Dried, Sysco",
+        "New Name ": "Cherry, Dried",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Sysco\""
+    },
+    {
+        "Tovala Base SKU": "I00387",
+        "Name": "Apricot, Jam, Hero, All Natural",
+        "New Name ": "Apricot, Jam, All Natural",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Crofter vs. Hero?"
+    },
+    {
+        "Tovala Base SKU": "I00398",
+        "Name": "Sauce, Marinara, Full Red",
+        "New Name ": "Sauce, Marinara",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Is Brand necessary?"
+    },
+    {
+        "Tovala Base SKU": "I00399",
+        "Name": "Peppers, Chipotle, Adobo Sauce, Mexicano",
+        "New Name ": "Peppers, Chipotle, Adobo Sauce",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Consolidate \"Peppers, Chipotle, Adobo Sauce, Mexicano\" to \"Peppers, chipotle, adobo sauce\" (I00288)"
+    },
+    {
+        "Tovala Base SKU": "I00400",
+        "Name": "Base, Sauteed Vegetable, Minor",
+        "New Name ": "Base, Sauteed Vegetable",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Is Brand necessary?"
+    },
+    {
+        "Tovala Base SKU": "I00403",
+        "Name": "Apricot, Preserve, Crofter",
+        "New Name ": "Apricot, Preserve",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Crofter vs. Hero?"
+    },
+    {
+        "Tovala Base SKU": "I00409",
+        "Name": "Ketchup, Packet, Simply Heinz",
+        "New Name ": "Ketchup, Packet",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Is Brand necessary?"
+    },
+    {
+        "Tovala Base SKU": "I00411",
+        "Name": "Paste, Mole, Dallasandro",
+        "New Name ": "Paste, Mole",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Is (Dallasandro) Brand necessary?"
+    },
+    {
+        "Tovala Base SKU": "I00412",
+        "Name": "Bean, Refried, Vegetarian, Casa Solana",
+        "New Name ": "Bean, Refried, Vegetarian",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Bean, Refried, Vegetarian, Casa Solana (I00412) vs. Bean, Refried, Vegetarian, Rosarita (I00941)"
+    },
+    {
+        "Tovala Base SKU": "I00416",
+        "Name": "Beef Base, Minors, Low Sodium",
+        "New Name ": "Beef Base, Low Sodium",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Is Brand necessary?"
+    },
+    {
+        "Tovala Base SKU": "I00418",
+        "Name": "Oats, Quick, Quaker",
+        "New Name ": "Oats, Quick",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Is Brand necessary?"
+    },
+    {
+        "Tovala Base SKU": "I00449",
+        "Name": "Biscuit, Cream Cheese, Gagne",
+        "New Name ": "Biscuit, Cream Cheese",
+        "Category": "Frozen Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Is Brand necessary?"
+    },
+    {
+        "Tovala Base SKU": "I00462",
+        "Name": "Cauliflower, Riced, Harvest",
+        "New Name ": "Cauliflower, Riced",
+        "Category": "Frozen Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Harvest\""
+    },
+    {
+        "Tovala Base SKU": "I00465",
+        "Name": "Pita, Pocket, Kronos, 6",
+        "New Name ": "Pita, Pocket, 6",
+        "Category": "Frozen Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Is Brand necessary?"
+    },
+    {
+        "Tovala Base SKU": "I00479",
+        "Name": "Potato, Wedge, Seasoned, IQF, Harvest",
+        "New Name ": "Potato, Wedge, Seasoned, IQF",
+        "Category": "Frozen Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Harvest\""
+    },
+    {
+        "Tovala Base SKU": "I00483",
+        "Name": "Broccoli, 20-30mm, IQF, Harvest",
+        "New Name ": "Broccoli, 20-30mm, IQF",
+        "Category": "Frozen Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Harvest\""
+    },
+    {
+        "Tovala Base SKU": "I00484",
+        "Name": "Tortellini, IQF, Turri",
+        "New Name ": "Tortollini, IQF",
+        "Category": "Frozen Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Turri\" so we can use secondary supplier"
+    },
+    {
+        "Tovala Base SKU": "I00493",
+        "Name": "Potsticker, Chicken, Wow Bao",
+        "New Name ": "Potsticker, Chicken",
+        "Category": "Frozen Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Wow Bao\""
+    },
+    {
+        "Tovala Base SKU": "I00537",
+        "Name": "Bacon Bits, Hormel, .5",
+        "New Name ": "Bacon Bits, .5",
+        "Category": "Meat",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Hormel\""
+    },
+    {
+        "Tovala Base SKU": "I00803",
+        "Name": "Sour Cream, Packet, Sysco",
+        "New Name ": "Sour Cream, Packet",
+        "Category": "Dairy",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Sysco\""
+    },
+    {
+        "Tovala Base SKU": "I00806",
+        "Name": "Cheese, Cream, Sysco",
+        "New Name ": "Cheese, Cream",
+        "Category": "Dairy",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Sysco\""
+    },
+    {
+        "Tovala Base SKU": "I00809",
+        "Name": "Butter, Chip, Grassland, Salted",
+        "New Name ": "Butter, Chip, Salted",
+        "Category": "Dairy",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Grassland\""
+    },
+    {
+        "Tovala Base SKU": "I00897",
+        "Name": "Fried Rice Mix, Brown, Harvest",
+        "New Name ": "Fried Rice Mix, Brown",
+        "Category": "Grains and Pasta",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Harvest\""
+    },
+    {
+        "Tovala Base SKU": "I00900",
+        "Name": "Fried Rice Mix, Cauliflower, Harvest",
+        "New Name ": "Fried Rice Mix, Cauliflower",
+        "Category": "Grains and Pasta",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Harvest\""
+    },
+    {
+        "Tovala Base SKU": "I00901",
+        "Name": "Tuscan Grain Mix, Harvest",
+        "New Name ": "Tuscan Grain Mix",
+        "Category": "Grains and Pasta",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Harvest\""
+    },
+    {
+        "Tovala Base SKU": "I00902",
+        "Name": "Mediterranean Grain Mix, Harvest",
+        "New Name ": "Mediterranean Grain Mix",
+        "Category": "Grains and Pasta",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Harvest\""
+    },
+    {
+        "Tovala Base SKU": "I00916",
+        "Name": "Apples, Diced, IQF, Harvest",
+        "New Name ": "Apples, Diced, IQF",
+        "Category": "Frozen Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Remove \"Harvest\""
+    },
+    {
+        "Tovala Base SKU": "I00947",
+        "Name": "Shrimp, 5 oz, IVP, GAS",
+        "New Name ": "Shrimp, 5oz, IVP",
+        "Category": "Fish",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "vs. Shrimp, 4150, IQF, 5 oz (I00818)"
+    },
+    {
+        "Tovala Base SKU": "I00941",
+        "Name": "Bean, Refried, Vegetarian, Rosarita",
+        "New Name ": "Bean, Refried, Vegetarian",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Bean, Refried, Vegetarian, Casa Solana (I00412) vs. Bean, Refried, Vegetarian, Rosarita (I00941)"
+    },
+    {
+        "Tovala Base SKU": "I00959",
+        "Name": "Strawberry Preserves, Dickinson",
+        "New Name ": "Strawberry Preserves",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Medium",
+        "Notes": "Strawberry Preserves, Bonne Maman (I00957) vs. Strawberry Preserves, Dickinson (I00959)"
+    },
+    {
+        "Tovala Base SKU": "I00922",
+        "Name": "Chicken, Medallions, Brined, Fully Cooked, AM",
+        "New Name ": "Chicken, Medallions, Brined, Fully Cooked",
+        "Category": "Meat",
+        "Priority (H/M/L)": "Low",
+        "Notes": "Remove \"AM\""
+    },
+    {
+        "Tovala Base SKU": "I00176",
+        "Name": "Hickory Rub, Woodland",
+        "New Name ": "Hickory Rub",
+        "Category": "Spice Mix Blends",
+        "Priority (H/M/L)": "Low",
+        "Notes": "Remove \"Woodland\""
+    },
+    {
+        "Tovala Base SKU": "I00243",
+        "Name": "Honey, Clover",
+        "New Name ": "Honey",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Low",
+        "Notes": "Clover vs. Amber distinction or generic?"
+    },
+    {
+        "Tovala Base SKU": "I00556",
+        "Name": "Chicken, Precooked, Diced, Brakebush",
+        "New Name ": "Chicken, Precooked, Diced",
+        "Category": "Meat",
+        "Priority (H/M/L)": "Low",
+        "Notes": "Remove \"Brakebush\" - Phased out"
+    },
+    {
+        "Tovala Base SKU": "I00988",
+        "Name": "Teriyaki Sauce, Giraffe",
+        "New Name ": "Teriyaki Sauce",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Low",
+        "Notes": "Keep \"Giraffe\"?"
+    },
+    {
+        "Tovala Base SKU": "I00989",
+        "Name": "Sweet BBQ Sauce, Giraffe",
+        "New Name ": "Sweet BBQ Sauce",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Low",
+        "Notes": "Keep \"Giraffe\"?"
+    },
+    {
+        "Tovala Base SKU": "I00990",
+        "Name": "Smokey BBQ Sauce, Giraffe",
+        "New Name ": "Smokey BBQ Sauce",
+        "Category": "Prepared Items",
+        "Priority (H/M/L)": "Low",
+        "Notes": "Keep \"Giraffe\"?"
+    },
+    {
+        "Tovala Base SKU": "I01004",
+        "Name": "Steak, Top Sirloin, Needle Tenderized, CMA, 6 oz",
+        "New Name ": "Steak, Top Sirloin, Needle Tenderized, 6 oz",
+        "Category": "Meat",
+        "Priority (H/M/L)": "Low",
+        "Notes": "Inactivate?"
+    },
+    {
+        "Tovala Base SKU": "I01005",
+        "Name": "Pork Chop, Needle Tenderized, VP, CMA",
+        "New Name ": "Pork Chop, Needle Tenderized, VP",
+        "Category": "Meat",
+        "Priority (H/M/L)": "Low",
+        "Notes": "Inactivate?"
+    }
+]
